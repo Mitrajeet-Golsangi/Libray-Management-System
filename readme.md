@@ -13,7 +13,9 @@ This is a simple library management system which uses the x86 TASM assembler.
 1. Pull the github repo using
 
     ```
-    git pull <repo_link>
+    cd <your_folder>
+    git init
+    git pull https://github.com/Mitrajeet-Golsangi/Libray-Management-System.git
     ```
 2. Install the MASM/TASM assembler for vscode [this link]()
 3. In Settings search for `masmtasm.mode` and then set the settings to workspace

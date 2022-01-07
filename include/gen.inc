@@ -29,6 +29,6 @@ endm
 
 inpString macro var
     mov ah, 0ah
-    lea dx, var
+    mov dx, offset var
     int 21h
 endm

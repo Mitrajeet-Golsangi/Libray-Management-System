@@ -17,6 +17,7 @@ This is a simple library management system which uses the x86 TASM assembler.
     git init
     git pull https://github.com/Mitrajeet-Golsangi/Libray-Management-System.git
     ```
+
 2. Install the MASM/TASM assembler for vscode [this link]()
 3. In Settings search for `masmtasm.mode` and then set the settings to workspace
 4. Run the assembly code using `alt + n` or right-click and run-ASM
@@ -33,10 +34,10 @@ The file.inc header file contains macros related to the file handling concepts
 
 1. File creation
 2. Opening a File
-2. Closing a File
-3. File reading
-4. File Writing
-5. Setting the file pointer at EOF
+3. Closing a File
+4. File reading
+5. File Writing
+6. Setting the file pointer at EOF
 
 ### 1.3.2. gen.inc
 
